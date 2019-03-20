@@ -17,7 +17,7 @@
 
 ### **IBM Cloud** - PSP: 2,5
 
-- **Anlegen einer IoT-Plattform**
+- Anlegen einer IoT-Plattform
 
   ---
 
@@ -118,9 +118,64 @@
 ### **Frontend - Wireframes** - PSP: 3,1
 
 - Login/Registrierung
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 1 h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Ein Benutzer muss sich registrieren und einloggen können. Das Wireframe behandelt eine Seite, die sich aus Registrierung und Login zusammensetzt.
+
+  Akzeptanzkriterien: Das Wireframe wurde von Papier auf das Mockup-Tool Balsamiq übertragen.
+
+  ---
+
 - Gerät-Registrierung
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 3 h
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Hier wird die Geräte-Registrierungsseite, zu welcher man per Click auf den "Hinzufügen"-Button bei der Geräte-Liste, gelangt.
+
+  Akzeptanzkriterien: Das Wireframe wurde von Papier auf das Mockup-Tool Balsamiq übertragen.
+
+  ---
+
 - Gerät-Liste
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 3 h
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Die Geräte-Liste ist, zusammen mit den Geräte-Details, das erste, was ein eingelogter User zu sehen bekommt. Hier werden die registrierten Geräte und ihre allerwichtigsten Daten angezeigt.
+
+  Akzeptanzkriterien: - Das Wireframe wurde von Papier auf das Mockup-Tool Balsamiq übertragen.
+
+  ​				  - Die Geräte-Liste enthält eine Darstellung der wichtigsten Daten.
+
+  ---
+
 - Gerät-Details
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 3 h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Die Geräte-Details sind, zusammen mit der Geräte-Liste, das erste, was ein eingelogter User zu sehen bekommt. Hier werden alle verfügbaren Daten des Geräts angezeigt.
+
+  Akzeptanzkriterien: - Das Wireframe wurde von Papier auf das Mockup-Tool Balsamiq übertragen
+
+  ​				  - Die Geräte-Details werden als einzelne Karten dargestellt.
+
+  ---
 
 ### **Backend - Setup **- PSP: 2,4
 
