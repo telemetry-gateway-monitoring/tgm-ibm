@@ -176,11 +176,68 @@
   ​				  - Die Geräte-Details werden als einzelne Karten dargestellt.
 
   ---
-
-### **Backend - Setup **- PSP: 2,4
+  
+  
+ ### **Backend - Setup **- PSP: 2,4
 
 - Ordnerstruktur
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 1 h
+
+  Zugewiesen an: David Jovanovic
+
+  Beschreibung: Es muss für das Backend-Team, die entsprechende Ordnerstruktur aufgebaut werden, die notwendig ist für die Erfüllung der Aufgaben.
+
+  Akzeptanzkriterien: Die umgesetzte Ordnerstruktur ist für die Leute die damit arbeiten werden verständlich und praktisch
+
+  ---
+
 - Node-Arbeitsumgebung aufsetzen
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 2 h
+
+  Zugewiesen an: David Jovanovic
+
+  Beschreibung: Es muss für das Backend-Team, die entsprechende Node.js Entwicklungsumgebung bereitgestellt werden. Dazu gehört die Einrichtung auf der Cloud und das hochladen einer Vorlage als App
+
+  Akzeptanzkriterien: Die Mitglieder haben Zugriff auf die Node.js App auf der Cloud und können ihre Änderungen pushen. Die neuste Version sollte dann immer verfügbar sein über den Link auf der Cloud
+
+  ---
+
+### **Backend - GW-Cloud** - PSP: 2,6
+- GW-Datenempfang
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 1 h
+
+  Zugewiesen an: David Jovanovic
+
+  Beschreibung: Es muss ermöglicht werden Daten vom Gateway aus zur IoT-Plattform auf der Cloud zu senden und diese dort zu empfangen.
+
+  Akzeptanzkriterien: Die korrekten Daten werden empfangen.
+
+  ---
+
+- Datenfilterung
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 2 h
+
+  Zugewiesen an: Jordi Rieder
+
+  Beschreibung: Es muss ermöglicht werden die empfangenen Daten mittels einer Node.js-App zu filtern, um anschließend für die nächsten Schritte der Datenverarbeitung, nur die nötigsten Daten zu bekommen.
+
+  Akzeptanzkriterien: Man erhält nur die gewünschten Daten
+
+  ---
+
+
 
 ### **Frontend - Setup** - PSP: 3,2
 
@@ -188,8 +245,5 @@
 - React-App + Sass aufsetzen
 - Routen festlegen
 
-### **Backend - GW-Cloud** - PSP: 2,6
+- 
 
-- GW-Daten über lokales Script empfangen
-- Richtige Daten filtern
-- Lokales Script auf Cloud übertragen
