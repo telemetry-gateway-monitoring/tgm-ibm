@@ -95,9 +95,9 @@
 
   Zugewiesen an: Jordi Rieder
 
-  Beschreibung: 
+  Beschreibung: Es muss eine Verknüpfung innerhalb der Cloud zwischen der Backend-App und der Datenbank erstellt werden. Weiters ist zu beachten, dass die korrekten API-Keys und Tokens benutzt werden.
 
-  Akzeptanzkriterien:
+  Akzeptanzkriterien: Verbindung ist hergestellt
 
   ---
 
@@ -111,7 +111,7 @@
 
   Beschreibung: 
 
-  Akzeptanzkriterien:
+  Akzeptanzkriterien:Verbindung ist hergestellt
 
   ---
 
@@ -213,7 +213,7 @@
 
   ---
 
-  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 1 h
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 5 h
 
   Zugewiesen an: David Jovanovic
 
@@ -227,7 +227,7 @@
 
   ---
 
-  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 2 h
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 5 h
 
   Zugewiesen an: Jordi Rieder
 
