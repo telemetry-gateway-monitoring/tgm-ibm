@@ -242,8 +242,60 @@
 ### **Frontend - Setup** - PSP: 3,2
 
 - Ordnerstruktur
-- React-App + Sass aufsetzen
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 | Zeitschätzung: 1 h
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Um eine übersichtliche Einteilung der Frontend-Komponenten zu haben, muss eine passende Ordnerstruktur erstellt werden.
+
+  Akzeptanzkriterien: Jede Komponente und jede zusätzliche Technologie hat einen eigenen Ordner.
+
+  ---
+
+- React-App mit der Node-App verbinden
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 1 h
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Mittels "Create-React-App" wird ein React-Projekt aufgesetzt. Dieses muss mit der Node-Applikation verbunden werden.
+
+  Akzeptanzkriterien: Datenaustausch zwischen jenen Apps möglich.
+
+  ---
+
 - Routen festlegen
 
-- 
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 4 h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Eine gut funktionierende Web-App benötigt eine fehlerlose Navigation zwischen einzelnen Komponenten und Subseiten.
+
+  Akzeptanzkriterien: - Navigation zwischen Login/Reg-Seite und Hauptseite funktioniert.
+
+  ​				- Navigation zwischen einzelnen Komponenten funktioniert.
+
+  ---
+
+- Sass aufsetzen
+
+  ---
+
+  Start Datum: 13.03.2019 | Abschlussdatum: 03.04.2019 |Zeitschätzung: 1 h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Für eine erleichterte Design-Arbeit wird der Präprozessor "Sass" verwendet.
+
+  Akzeptanzkriterien: Sass in Projekt eingebunden und funktionstüchtig.
+
+  ---
 
