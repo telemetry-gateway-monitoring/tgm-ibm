@@ -350,6 +350,20 @@
   Akzeptanzkriterien: Deploy Stage auf IBM Cloud auf "Phase bestanden".
 
   ------
+  
+- ReactJS und Node-Server verknüpfen
+
+  ---
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 2h | Zeit: 3 h
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Auf der Cloud laufen ein Node- und ein ReactJS-Server bzw. Anwendungen. Ziel dieses Arbeitspakets ist es, diese beiden zu verknüpfen.
+
+  Akzeptanzkriterien: Verknüpfte Anwendung kann in die Delivery-Pipeline eingebunden werden
+
+
 
 ## Sprint 3 - 20.04 bis 08.05
 
