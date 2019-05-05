@@ -309,7 +309,7 @@
 
   ------
 
-  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: | Zeit:
 
   Zugewiesen an: 
 
@@ -323,6 +323,34 @@
 
 ### Frontend - Setup - PSP: 3,2
 
+- Continous Delivery - Build
+
+  ---
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 0,5h | Zeit: 3,5 h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Erste Phase der Continous Delivery Pipeline. Der "Build"- Prozess der App muss mit der Cloud abgestimmt werden.
+
+  Akzeptanzkriterien: Build Stage auf IBM Cloud auf "Phase bestanden".
+
+  ---
+
+- Continous Delivery - Deploy
+
+  ------
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 0,5h | Zeit: 3,5 h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Zweite Phase der Continous Delivery Pipeline. Der "Deploy"- Prozess der App muss mit der Cloud abgestimmt werden.
+
+  Akzeptanzkriterien: Deploy Stage auf IBM Cloud auf "Phase bestanden".
+
+  ------
+
 ## Sprint 3 - 20.04 bis 08.05
 
 **Arbeitspaket - Template - Sprint 3**
@@ -333,7 +361,7 @@
 
   ------
 
-  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: | Zeit:
 
   Zugewiesen an: 
 
@@ -350,3 +378,5 @@
 ### Frontend - Device Liste - PSP: 3,4
 
 ### Frontend - Device Details - PSP: 3,6
+
+### Frontend - Navbar - PSP: 3,8
