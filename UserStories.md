@@ -2,16 +2,16 @@
 
 ---
 
-| Sprint 1 - 13.03-03.04                                      | Sprint 2 - 03.04-08.05                              |
-| :---------------------------------------------------------- | --------------------------------------------------- |
-| IBM Cloud (IoT-Plattform, Cloudant, Git Repo/s) —> M + XS   | **Frontend** - API Calls —> M                       |
-| **Frontend** - Wireframes —> M                              | **Backend** - DB Handler (Data from Cloudant) —> XL |
-| **Backend** - Setup (Swagger, Express, Ordnerstruktur) —> L | **Frontend** - Login —> M                           |
-| **Frontend** - Setup —> S                                   | **Frontend** - Device Liste —> L                    |
-| **Backend** - Gateway-Cloud                                 | **Frontend** - Device Details —> L                  |
-|                                                             | **Backend** - API DB —> XL                          |
-|                                                             | **Backend** - Message Handler  —> XL                |
-|                                                             | **Frontend** - View: Registration —> XL             |
+| Sprint 1 - 13.03-03.04                                      | Sprint 2 & 3 - 03.04-08.05                             |
+| :---------------------------------------------------------- | ------------------------------------------------------ |
+| IBM Cloud (IoT-Plattform, Cloudant, Git Repo/s) —> M + XS   | **Frontend** - API Calls —> M                          |
+| **Frontend** - Wireframes —> M                              | **Backend** - DB Handler (Data from Cloudant) —> XL    |
+| **Backend** - Setup (Swagger, Express, Ordnerstruktur) —> L | verschoben ... **Frontend** - Login —> M               |
+| **Frontend** - Setup —> S                                   | **Frontend** - Device Liste —> L                       |
+| **Backend** - Gateway-Cloud                                 | **Frontend** - Device Details —> L                     |
+|                                                             | **Backend** - API DB —> XL                             |
+|                                                             | **Backend** - Message Handler  —> XL                   |
+|                                                             | verschoben ... **Frontend** - View: Registration —> XL |
 
 ## Sprint 1
 
@@ -299,3 +299,54 @@
 
   ---
 
+## Sprint 2 - 03.04 bis 20.04
+
+**Arbeitspaket - Template - Sprint 2**
+
+---
+
+- Titel
+
+  ------
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 
+
+  Zugewiesen an: 
+
+  Beschreibung: 
+
+  Akzeptanzkriterien: 
+
+  ---
+
+---
+
+### Frontend - Setup - PSP: 3,2
+
+## Sprint 3 - 20.04 bis 08.05
+
+**Arbeitspaket - Template - Sprint 3**
+
+------
+
+- Titel
+
+  ------
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 
+
+  Zugewiesen an: 
+
+  Beschreibung: 
+
+  Akzeptanzkriterien: 
+
+  ------
+
+---
+
+### Frontend - Api Calls - PSP: 3,7
+
+### Frontend - Device Liste - PSP: 3,4
+
+### Frontend - Device Details - PSP: 3,6
