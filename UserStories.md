@@ -301,26 +301,6 @@
 
 ## Sprint 2 - 03.04 bis 20.04
 
-**Arbeitspaket - Template - Sprint 2**
-
----
-
-- Titel
-
-  ------
-
-  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: | Zeit:
-
-  Zugewiesen an: 
-
-  Beschreibung: 
-
-  Akzeptanzkriterien: 
-
-  ---
-
----
-
 ### Frontend - Setup - PSP: 3,2
 
 - Continous Delivery - Build
@@ -364,6 +344,112 @@
   Akzeptanzkriterien: Verknüpfte Anwendung kann in die Delivery-Pipeline eingebunden werden
   
   Dokumentation: <https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0>
+  
+  ---
+  
+- Webpack - File Loader
+
+  ------
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 0.5 | Zeit: 0.5
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Um den require() Befehl in React anwenden zu können, muss ein File Loader installiert werden. Der File-Loader löst `import/require()` einer Datei in eine URL auf und gibt die Datei in das Ausgabeverzeichnis aus.
+
+  Akzeptanzkriterien: npm run build erfolgreich
+
+  Implementierung:
+
+  **Install**
+
+  ```shell
+  $ npm install file-loader --save-dev
+  ```
+
+  Dokumentation: <https://github.com/webpack-contrib/file-loader>
+
+  ------
+
+- Webpack - Image Loader
+
+  ------
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 0.5 | Zeit: 0.5
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Um Bilder aller Arten (png, jpg, jpeg, svg, ...) in die React-App einbinden zu können, muss in Webpack ein Image Loader eingebaut werden.
+
+  Akzeptanzkriterien: File Loader vorhanden + npm run build erfolgreich + Bilder werden angezeigt
+
+  **Install**
+
+  ```shell
+  $ npm install image-webpack-loader --save-dev**
+  ```
+
+  **webpack.common.js**
+
+  ```javascript
+  {
+      test: /\.(gif|png|jpe?g|svg)$/i,
+          use: [
+              'file-loader',
+              {
+                  loader: 'image-webpack-loader',
+                  options: {
+                      bypassOnDebug: true, // webpack@1.x
+                      disable: true, // webpack@2.x and newer
+                  },
+              },
+          ],
+  }
+  ```
+
+  Dokumentation: <https://www.npmjs.com/package/image-webpack-loader>
+
+  ------
+
+- Webpack - SASS/CSS Loader
+
+  ------
+
+  Start Datum: 03.04.2019 | Abschlussdatum: 20.04.2019 | Zeitschätzung: 0.5 | Zeit: 0.5
+
+  Zugewiesen an: Sebastian Grünewald
+
+  Beschreibung: Damit SASS-Files und dessen untergeordneten CSS-Files gültig von der React-App geladen werden, muss in Webpack ein geeigneter Loader eingebaut werden. 
+
+  Akzeptanzkriterien: npm run build erfolgreich +Style-Änderungen werden übernommen 
+
+  Implementierung: 
+
+  **Install**
+
+  ```shell
+  $ npm install sass-loader node-sass webpack --save-dev
+  $ npm install style-loader css-loader --save-dev
+  ```
+
+  **webpack.common.js**
+
+  ```javascript
+  {
+      test: /\.scss$/,
+          use: [
+              "style-loader", // creates style nodes from JS strings
+              "css-loader", // translates CSS into CommonJS
+              "sass-loader" // compiles Sass to CSS, using Node Sass by default
+          ]
+  }
+  ```
+
+  Dokumentation: <https://github.com/webpack-contrib/sass-loader>
+
+  ------
+
+  
 
 ## Sprint 3 - 20.04 bis 08.05
 
