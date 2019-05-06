@@ -429,6 +429,10 @@
 
 ### Frontend - Device Liste - PSP: 3,4
 
+---
+
+
+
 - Device-Liste-Komponente Version 0.1
 
   ---
@@ -456,6 +460,22 @@
   Akzeptanzkriterien: Die Komponente wird von der Eltern-Komponente angenommen und fehlerfrei angezeigt.
 
 ### Frontend - Device Details - PSP: 3,6
+
+- Konzept entwickeln 	
+
+  ------
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 1h| Zeit: 1h
+
+​		Zugewiesen an: Sebastian Grünewald
+
+​		Beschreibung: Erstellen eines Konzepts, zur Entwicklung und Umsetzung der Device Details
+
+​		Akzeptanzkriterien: Nach Rücksprache 'OK' innerhalb des Teams
+
+---
+
+
 
 - Device-Details-Prototyp-Komponente
 
@@ -501,14 +521,46 @@
 
 ### Frontend - Navbar - PSP: 3,8
 
-* Titel
+- Navbar-Komponente
 
 ------
 
-Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: | Zeit:
+Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 2h| Zeit: 3h
 
-Zugewiesen an: 
+Zugewiesen an: Sebastian Grünewald
 
-Beschreibung: 
+Beschreibung: Es wird mit React und MaterialUI eine Navbar-Komponente aufgesetzt
 
-Akzeptanzkriterien: 
+Akzeptanzkriterien: Die Komponente ist verwendbar und nimmt alle nötigen Props entgegen.
+
+------
+
+
+
+- Verwendung der Navbar-Komponente
+
+------
+
+Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 1h | Zeit: 1h
+
+Zugewiesen an: Sebastian Grünewald
+
+Beschreibung: Die Komponente muss in den Aufbau des Web-Interfaces integriert werden.
+
+Akzeptanzkriterien: Die Komponente wird von der Eltern-Komponente angenommen und fehlerfrei angezeigt.
+
+---
+
+
+
+- Gestalten der Navbar-Komponente
+
+------
+
+Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 2h | Zeit: 2,5
+
+Zugewiesen an: Sebastian Grünewald
+
+Beschreibung: Die Navbar-Komponente wird so gestaltet, dass sie responsiv ist und alle Inhalte ideal lädt und positioniert.
+
+Akzeptanzkriterien: Komponente ist auf allen Geräten responsiv
