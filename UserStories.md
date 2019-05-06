@@ -363,8 +363,6 @@
 
   Akzeptanzkriterien: Verknüpfte Anwendung kann in die Delivery-Pipeline eingebunden werden
 
-
-
 ## Sprint 3 - 20.04 bis 08.05
 
 **Arbeitspaket - Template - Sprint 3**
