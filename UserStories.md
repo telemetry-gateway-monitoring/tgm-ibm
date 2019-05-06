@@ -362,6 +362,8 @@
   Beschreibung: Auf der Cloud laufen ein Node- und ein ReactJS-Server bzw. Anwendungen. Ziel dieses Arbeitspakets ist es, diese beiden zu verknüpfen.
 
   Akzeptanzkriterien: Verknüpfte Anwendung kann in die Delivery-Pipeline eingebunden werden
+  
+  Dokumentation: <https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0>
 
 
 
