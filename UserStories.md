@@ -375,8 +375,90 @@
 
 ### Frontend - Api Calls - PSP: 3,7
 
+- Daten-Fetch von REST
+
+  ---
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 1h | Zeit: 1h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Es werden die, vom Backend bereitgestellten, Daten von einer REST-Schnittstelle geholt und ausgegeben.
+
+  Akzeptanzkriterien: Gerätedaten werden korrekt heruntergeladen und in die hierfür vorgesehenen Komponenten hineingesetzt.
+
+  ---
+
 ### Frontend - Device Liste - PSP: 3,4
 
+- Device-Liste-Komponente Version 0.1
+
+  ---
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 9h | Zeit: 7h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Im Vorprojekt ist das registrierte Gateway innerhalb einer Tabellen-Komponente einsehbar. Hierbei handelt es sich um eine reine Text-Ausgabe.
+
+  Akzeptanzkriterien: Die Komponente ist verwendbar und nimmt alle nötigen Props entgegen.
+
+  ---
+
+- Verwendung der Listen-Komponente
+
+  ---
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 1h | Zeit: 1h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Die Komponente muss in den Aufbau des Web-Interfaces integriert werden.
+
+  Akzeptanzkriterien: Die Komponente wird von der Eltern-Komponente angenommen und fehlerfrei angezeigt.
+
 ### Frontend - Device Details - PSP: 3,6
+
+- Device-Details-Prototyp-Komponente
+
+  ---
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 3h | Zeit: 3,5h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Im Vorprojekt werden alle Daten innerhalb einer tabellenartigen Komponente ausgegeben.
+
+  Akzeptanzkriterien: Die Komponente ist verwendbar und nimmt alle nötigen Props entgegen.
+
+  ---
+
+- Verwendung der Prototyp-Komponente
+
+  ---
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 0,5h | Zeit: 0,5h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Die Komponente muss in den Aufbau des Web-Interfaces integriert werden.
+
+  Akzeptanzkriterien: Die Komponente wird von der Eltern-Komponente angenommen und fehlerfrei angezeigt.
+
+  ---
+
+- Grid-Implementierung
+
+  ---
+
+  Start Datum: 20.04.2019 | Abschlussdatum: 08.05.2019 | Zeitschätzung: 2h | Zeit: 1,5h
+
+  Zugewiesen an: Maciej Dzialoszynski
+
+  Beschreibung: Die GUI wird in Form eines Grids (Rasters) angezeigt.
+
+  Akzeptanzkriterien: Grid-Layout adaptiert und für alle wesentlichen Bildschirmgrößen einsehbar.
+
+  ---
 
 ### Frontend - Navbar - PSP: 3,8
